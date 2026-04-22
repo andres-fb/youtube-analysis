@@ -35,11 +35,11 @@ Key Insights
 Visualizations
 
 
-![Correlation Heatmap](visuals/correlation_matrix.png)
+
 
 - Correlation Heatmap: A visual summary showing that "Video Views" drive earnings far more effectively than "Subscribers".
 
-![Scatter Plot (Audience vs. Wealth)](visuals/subscribers_vs_earnings_scatter.png)
+
 
 
 - Scatter Plot (Audience vs. Wealth): Identification of "Efficiency Outliers"—channels that monetize up to 5x better than global leaders despite smaller audiences.
